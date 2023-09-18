@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<p xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <p>
+    So. . . congratulations, maybe? I don't know. ¯\_(ツ)_/¯ I have to assume you've been with 
+    tech a while and knew that you would be the next tech head. This doesn't have as much 
+    general info as the other book(How To Go On A Tech Adventure), but it might make things 
+    a bit easier. Some of this book will be guide, and some will be advice. I started making 
+    this second book when I realized that somethings are best mostly kept with the heads and 
+    don't need to be public knowledge. I would not necessarily keep this hidden, but it 
+    wouldn't be that useful to someone else unless they are about to be the lead theatre tech.
+  </p>
+  <p>
+    Anyway, the purpose of this book is to teach you some skills that me and other past 
+    tech leads think are useful. Along the way, there will be recomendations and resources
+    given, but I'm not all knowing so there might be a better way out there. If there is 
+    something better please make a pull request or use the google group linked later to tell 
+    me to update it
+  </p>
+</p>

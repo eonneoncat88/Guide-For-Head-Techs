@@ -21,7 +21,6 @@
     <xi:include href="./ch/ch-on-stage-assignments.ptx" />
     <xi:include href="./ch/ch-stage-directions.ptx" />
 
-
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
