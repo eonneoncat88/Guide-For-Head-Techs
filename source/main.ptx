@@ -4,15 +4,22 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <book xml:id="guide-for-head-techs">
+    <title>A Guide For Tech Heads</title>
+    <subtitle>With help from the 2015 - 2020 tech teams</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch/ch-general-advice.ptx" />
+    <xi:include href="./ch/ch-new-show-guide.ptx" />
+    <xi:include href="./ch/ch-your-job-in-safety.ptx" />
+    <xi:include href="./ch/ch-daily-procedures.ptx" />
+    <xi:include href="./ch/ch-scheduling.ptx" />
+    <xi:include href="./ch/ch-budget.ptx" />
+    <xi:include href="./ch/ch-on-stage-assignments.ptx" />
+    <xi:include href="./ch/ch-stage-directions.ptx" />
 
 
     <!-- Include backmatter -->
