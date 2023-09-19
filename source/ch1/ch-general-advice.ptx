@@ -4,10 +4,11 @@
   <title>General Advice</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> TBD </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="/workspaces/Guide-For-Head-Techs/source/sec/sec-section-name.ptx" />
+  <xi:include href="./sec-good-advice.ptx" />
+  <xi:include href="./sec-solid-recomendations.ptx" />
 
 </chapter>

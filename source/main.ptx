@@ -12,14 +12,14 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch/ch-general-advice.ptx" />
-    <xi:include href="./ch/ch-new-show-guide.ptx" />
-    <xi:include href="./ch/ch-your-job-in-safety.ptx" />
-    <xi:include href="./ch/ch-daily-procedures.ptx" />
-    <xi:include href="./ch/ch-scheduling.ptx" />
-    <xi:include href="./ch/ch-budget.ptx" />
-    <xi:include href="./ch/ch-on-stage-assignments.ptx" />
-    <xi:include href="./ch/ch-stage-directions.ptx" />
+    <xi:include href="./ch1/ch-general-advice.ptx" />
+    <xi:include href="./ch2/ch-new-show-guide.ptx" />
+    <xi:include href="./ch3/ch-your-job-in-safety.ptx" />
+    <xi:include href="./ch4/ch-daily-procedures.ptx" />
+    <xi:include href="./ch5/ch-scheduling.ptx" />
+    <xi:include href="./ch6/ch-budget.ptx" />
+    <xi:include href="./ch7/ch-on-stage-assignments.ptx" />
+    <xi:include href="./ch8/ch-stage-directions.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

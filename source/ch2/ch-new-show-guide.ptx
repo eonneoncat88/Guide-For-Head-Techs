@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-new-show-guide" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>New Show Guide</title>
+
+  <introduction>
+    <p> 
+      If it's time to start a new show, this is the chapter for you. In fact, in an 
+      early draft of this book, it was the first chapter.
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="./sec-considering-a-new-show.ptx"/>
+  <xi:include href="./sec-new-show-tasks.ptx" />
+
+</chapter>
