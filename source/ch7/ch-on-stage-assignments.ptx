@@ -8,5 +8,6 @@
   </introduction>
 
   <!-- include sections -->
+  <xi:include href="./sec-setting-stage-assigments.ptx"/>
 
 </chapter>

@@ -8,5 +8,6 @@
   </introduction>
 
   <!-- include sections -->
+  <xi:include href="./sec-doing-the-dailey.ptx"/>
 
 </chapter>
