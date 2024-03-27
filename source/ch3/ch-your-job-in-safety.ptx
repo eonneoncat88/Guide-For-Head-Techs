@@ -7,6 +7,10 @@
     <p> Text before the first section. </p>
   </introduction>
 
-  <!-- include sections -->
-
+  <section xml:id="sec-safety">
+    <title>safety</title>
+    <p>
+      TBD
+    </p>
+  </section>
 </chapter>

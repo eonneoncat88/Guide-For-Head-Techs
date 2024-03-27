@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<p xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
+<preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Book's Goals</title>
+  
   <p>
     So. . . congratulations, maybe? I don't know. ¯\_(ツ)_/¯ I have to assume you've been with 
     tech a while and knew that you would be the next tech head. This doesn't have as much 
@@ -17,4 +19,12 @@
     something better please make a pull request or use the google group linked later to tell 
     me to update it
   </p>
-</p>
+  <p>
+    <alert>Disclaimers: </alert>
+    <em>
+      Reference to specific commercial products, manufacturers, companies, or trademarks does not constitute 
+      its endorsement or recommendation by the U.S. Government, Department of Health and Human Services, 
+      or Centers for Disease Control and Prevention.
+    </em>
+  </p>
+</preface>
